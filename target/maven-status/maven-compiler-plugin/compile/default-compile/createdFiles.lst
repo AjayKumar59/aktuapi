@@ -1,0 +1,9 @@
+com\study\aktu\AktuApplication.class
+com\study\aktu\exception\DataNotFoundException.class
+com\study\aktu\model\Paper.class
+com\study\aktu\model\Quantum.class
+com\study\aktu\controller\PaperController.class
+com\study\aktu\repo\QuantumRepository.class
+com\study\aktu\repo\PaperRepository.class
+com\study\aktu\ServletInitializer.class
+com\study\aktu\controller\QuantumController.class

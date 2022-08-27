@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.study.aktu.AktuApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.18 s - in com.study.aktu.AktuApplicationTests
